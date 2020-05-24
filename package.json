@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gndx/platzi-store.git"
+    "url": "git+https://github.com/marcoETmx/Testing-Jest-React.git"
   },
   "keywords": [
     "React",
@@ -23,7 +23,7 @@
     "React-router",
     "Redux"
   ],
-  "author": "Oscar Barajas <oscar@arepa.dev>",
+  "author": "Marco Elizalde",
   "license": "MIT",
   "dependencies": {
     "@babel/core": "^7.7.2",
@@ -64,9 +64,9 @@
     "webpack-dev-server": "^3.9.0"
   },
   "bugs": {
-    "url": "https://github.com/gndx/platzi-store/issues"
+    "url": "https://github.com/marcoETmx/Testing-Jest-React/issues"
   },
-  "homepage": "https://github.com/gndx/platzi-store/#readme",
+  "homepage": "https://github.com/marcoETmx/Testing-Jest-React/#readme",
   "jest": {
     "verbose": true,
     "setupFilesAfterEnv": [
